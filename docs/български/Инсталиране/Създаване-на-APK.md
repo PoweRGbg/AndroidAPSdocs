@@ -1,3 +1,5 @@
+* Инсталирайте Android Studio от [тук] (https://developer.android.com/studio/install.html)
+
 * Изтеглете [AndroidAPS архив](https://github.com/MilosKozak/AndroidAPS) и разархивирайте файловете.
 
 * Стартирайте Android Studio и изберете 'Open an existing Android Studio project', като изберете местоположението на разархивираните файлове.
